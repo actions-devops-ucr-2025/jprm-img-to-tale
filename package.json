@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "abc",
     "lint": "eslint ./src --ignore-pattern '**/__tests__/**'",
     "preview": "vite preview",
     "test": "vitest run --coverage"
